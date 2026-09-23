@@ -31,6 +31,7 @@ I'm a working IT technician (**REGTeches**) and I write free tools for people wh
 
 | Project | What it is |
 |---|---|
+| [**media-stack-installer**](https://github.com/ronaldgoodchild/media-stack-installer) | Windows-native installer for a Sonarr/Radarr/Prowlarr/Jellyfin/Seerr stack as real services - no Docker, random login, bring your own indexers |
 | [**budget-and-bills**](https://github.com/ronaldgoodchild/budget-and-bills) | Local-first budgeting: bank CSV import, bill calendar, overdraft warnings |
 | [**weather-dashboard**](https://github.com/ronaldgoodchild/weather-dashboard) | Single-file weather dashboard: NWS alerts, forecast, hurricanes, tides, radar and ntfy phone alerts |
 | [**coin-collection-manager**](https://github.com/ronaldgoodchild/coin-collection-manager) | Coin collection tracker with photos, melt value, labels and insurance report |
