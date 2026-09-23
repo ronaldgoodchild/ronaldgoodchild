@@ -32,6 +32,7 @@ I'm a working IT technician (**REGTeches**) and I write free tools for people wh
 | Project | What it is |
 |---|---|
 | [**budget-and-bills**](https://github.com/ronaldgoodchild/budget-and-bills) | Local-first budgeting: bank CSV import, bill calendar, overdraft warnings |
+| [**weather-dashboard**](https://github.com/ronaldgoodchild/weather-dashboard) | Single-file weather dashboard: NWS alerts, forecast, hurricanes, tides, radar and ntfy phone alerts |
 | [**coin-collection-manager**](https://github.com/ronaldgoodchild/coin-collection-manager) | Coin collection tracker with photos, melt value, labels and insurance report |
 
 ---
