@@ -4,6 +4,8 @@ I'm a working IT technician (**REGTeches**) and I write free tools for people wh
 
 **Want to help?** Every repo has issues labelled [`good first issue`](https://github.com/search?q=user%3Aronaldgoodchild+label%3A%22good+first+issue%22+state%3Aopen&type=issues) and a `ROADMAP.md` full of ideas. Bug reports, feature ideas, screenshots and pull requests are all welcome - and Discussions are on in every repo.
 
+**Just want to try something?** The Windows apps (Tech Sentinel Monitor, NOC Dashboard, DriveMapper Pro) have ready-to-run EXEs on their Releases pages, with SHA-256 checksums. They are unsigned, so Windows may show a SmartScreen warning. With [Scoop](https://scoop.sh): `scoop bucket add regteches https://github.com/ronaldgoodchild/scoop-regteches` then `scoop install drivemapper-pro`.
+
 ## Monitoring & network
 
 | Project | What it is |
