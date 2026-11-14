@@ -4,7 +4,7 @@ I'm a working IT technician (**REGTeches**) and I write free tools for people wh
 
 **Want to help?** Every repo has issues labelled [`good first issue`](https://github.com/search?q=user%3Aronaldgoodchild+label%3A%22good+first+issue%22+state%3Aopen&type=issues) and a `ROADMAP.md` full of ideas. Bug reports, feature ideas, screenshots and pull requests are all welcome - and Discussions are on in every repo.
 
-**Just want to try something?** The Windows apps (Tech Sentinel Monitor, NOC Dashboard, DriveMapper Pro) have ready-to-run EXEs on their Releases pages, with SHA-256 checksums. They are unsigned, so Windows may show a SmartScreen warning. With [Scoop](https://scoop.sh): `scoop bucket add regteches https://github.com/ronaldgoodchild/scoop-regteches` then `scoop install drivemapper-pro`.
+**Just want to try something?** The Windows apps (Tech Sentinel Monitor, NOC Dashboard, DriveMapper Pro, RC) have ready-to-run EXEs on their Releases pages, with SHA-256 checksums. They are unsigned, so Windows may show a SmartScreen warning. With [Scoop](https://scoop.sh): `scoop bucket add regteches https://github.com/ronaldgoodchild/scoop-regteches` then `scoop install drivemapper-pro`.
 
 ## Monitoring & network
 
@@ -12,6 +12,7 @@ I'm a working IT technician (**REGTeches**) and I write free tools for people wh
 |---|---|
 | [**tech-sentinel-monitor**](https://github.com/ronaldgoodchild/tech-sentinel-monitor) | Self-hostable uptime monitoring: HTTP/TCP/ping/heartbeat probes, Slack/PagerDuty/webhook alerts, status pages. Docker/Helm + Windows standalone app |
 | [**noc-dashboard**](https://github.com/ronaldgoodchild/noc-dashboard) | Home-lab / small-shop Network Operations Center with SMS alerts, RDP/SMB/SSH launchers. Desktop and web editions plus agents |
+| [**regteches-rc**](https://github.com/ronaldgoodchild/regteches-rc) | Remote Connection Manager: SSH terminal, SFTP/FTP, Remote Desktop, VNC, RustDesk, tunnels and live server status in one window |
 | [**master-monitor-ps**](https://github.com/ronaldgoodchild/master-monitor-ps) | Single-script PowerShell server monitor with loud alarms and Telegram/email/webhook alerts |
 | [**cyberscan**](https://github.com/ronaldgoodchild/cyberscan) | Windows security audit and hardening dashboard: security score, CVE + CIS checks, MITRE ATT&CK mapping |
 | [**drivemapper-pro**](https://github.com/ronaldgoodchild/drivemapper-pro) | Map network drives, fix Error 1219, Wake-on-LAN, sync folders with rclone/robocopy |
